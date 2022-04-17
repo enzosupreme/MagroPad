@@ -1,0 +1,1 @@
+Basic Setup for three button macropad with rotary encoder and oled display.
